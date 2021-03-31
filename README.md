@@ -6,7 +6,7 @@
 
 ### Do not store passwords with a simple hash : if two users have the same password, they will end up with the same hash 🚱
 
-### Reverse Hash / Rainbow tables can be used to find passwords.
+### Reverse Hash / Rainbow tables can be used to find passwords : https://crackstation.net/
 
 # Good habit for passwords : Hash + Salt + Pepper 👍✔️
 
@@ -18,6 +18,4 @@
 
 ### Database shape : 
 [SQL Database] ![image](https://user-images.githubusercontent.com/64968597/113208893-44006f80-926a-11eb-9c5d-15fb6c230ee0.JPG)
-
-### https://crackstation.net/
 
