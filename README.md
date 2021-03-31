@@ -15,3 +15,7 @@
 
 ### Salted hashed passwords :
 [Rainbow Tables SHA256 FAIL] ![image](https://user-images.githubusercontent.com/64968597/113208787-1ddacf80-926a-11eb-9957-7087c8d0773a.JPG)
+
+### Database shape : 
+[SQL Database] ![image](https://user-images.githubusercontent.com/64968597/113208893-44006f80-926a-11eb-9c5d-15fb6c230ee0.JPG)
+
