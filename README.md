@@ -8,7 +8,7 @@
 
 ### Reverse Hash / Rainbow tables can be used to find passwords.
 
-# **Good habit for passwords : Hash + Salt + Pepper** 👍✔️
+# __Good habit for passwords : Hash + Salt + Pepper__ 👍✔️
 
 ### Unsalted hashed passwords :
 [Rainbow Tables SHA256] ![image](https://user-images.githubusercontent.com/64968597/113207408-7c06b300-9268-11eb-8c28-f8f904fd9b9d.JPG)
