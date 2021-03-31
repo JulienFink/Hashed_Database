@@ -4,7 +4,7 @@
 
 ### Never send passwords in a clear format ! 👎❌
 
-### Do not store passwords with a simple Hash : if two users have the same password, they will end up with the same hash 🚱
+### Do not store passwords with a simple hash : if two users have the same password, they will end up with the same hash 🚱
 
 ### Reverse Hash / Rainbow tables can be used to find passwords.
 
