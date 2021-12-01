@@ -17,5 +17,5 @@
 [Rainbow Tables SHA256 FAIL] ![image]()
 
 ### Database shape : 
-[SQL Database] ![image]()
+[SQL Database] ![image](https://user-images.githubusercontent.com/64968597/144274970-7fe2c306-4481-480a-a4d8-59a03e7f3bf8.png)
 
