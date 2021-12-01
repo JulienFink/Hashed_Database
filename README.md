@@ -1,4 +1,4 @@
-# Securely store passwords in a database using SHA256 hashes
+# Securely store passwords in database using SHA256 hashes and salt mechanisms
 
 ### Never store passwords in a clear format ! 👎❌
 
